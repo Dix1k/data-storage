@@ -1,0 +1,15 @@
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.AssemblyInfoInputs.cache
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.AssemblyInfo.cs
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.csproj.CoreCompileInputs.cache
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.sourcelink.json
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\bin\Debug\net8.0\AutoServiceSystem.exe
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\bin\Debug\net8.0\AutoServiceSystem.deps.json
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\bin\Debug\net8.0\AutoServiceSystem.runtimeconfig.json
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\bin\Debug\net8.0\AutoServiceSystem.dll
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\bin\Debug\net8.0\AutoServiceSystem.pdb
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.dll
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\refint\AutoServiceSystem.dll
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.pdb
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\AutoServiceSystem.genruntimeconfig.cache
+C:\Users\dix1k\Документы\GitHub\PGATU\Конструирование программного обеспечения\LaboratoryWorkNo2\AutoServiceSystem\obj\Debug\net8.0\ref\AutoServiceSystem.dll

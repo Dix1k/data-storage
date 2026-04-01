@@ -1,0 +1,11 @@
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\bin\x64\Debug\Faculty.exe.config
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\bin\x64\Debug\Faculty.exe
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\bin\x64\Debug\Faculty.pdb
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.csproj.AssemblyReference.cache
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.Form1.resources
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.Properties.Resources.resources
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.csproj.GenerateResource.cache
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.csproj.CoreCompileInputs.cache
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.exe
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.pdb
+C:\Users\dix1k\Documents\PGATU\Конструирование программного обеспечения\Курсовая\Faculty\Faculty\obj\x64\Debug\Faculty.exe.config
