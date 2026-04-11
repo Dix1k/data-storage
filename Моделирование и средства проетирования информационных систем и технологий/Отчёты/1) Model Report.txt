@@ -1,0 +1,5 @@
+
+Model Name: Банк IDEF0
+Author Name: Дмитрий Власов
+Creation Date: 03.04.2026
+User Last Revision Date: 10.04.2026

@@ -1,0 +1,11 @@
+Model Inconsistencies:
+ 
+Diagram 1:  Context
+    has 2 unnamed arrows
+ 
+Diagram 1.1:  Реализовать учебный процесс
+    has 4 unnamed arrows
+ 
+Diagram 4.1:  Выпустить студентов
+    has 5 unnamed junctions
+    has 17 unnamed arrows

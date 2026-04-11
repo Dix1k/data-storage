@@ -1,0 +1,65 @@
+Report for Diagram: A0, Оформление кредита в банке
+
+
+Activity Name: Оформление заявки
+Activity Author: Дмитрий Власов
+Activity Status: WORKING
+
+Activity Name: Оформление кредитного договора
+Activity Author: Дмитрий Власов
+Activity Status: WORKING
+
+Activity Name: Выдача кредита
+Activity Author: Дмитрий Власов
+Activity Status: WORKING
+
+Link Name: Документы клиента
+Link Status: WORKING
+
+Link Name: Заявка на кредит
+Link Status: WORKING
+
+Link Name: Кредитный специалист
+Link Status: WORKING
+
+Link Name: ИС
+Link Status: WORKING
+
+Link Name: Служба безопасности
+Link Status: WORKING
+
+Link Name: Скоринговая система
+Link Status: WORKING
+
+Link Name: Кассир
+Link Status: WORKING
+
+Link Name: График платежей
+Link Status: WORKING
+
+Link Name: Кредитный договор
+Link Status: WORKING
+
+Link Name: Решение по кредиту
+Link Status: WORKING
+
+Link Name: Кредитная политика
+Link Status: WORKING
+
+Link Name: Законодательство РФ
+Link Status: WORKING
+
+Link Name: Внетренние регламенты банка
+Link Status: WORKING
+
+Link Name: Одобрение
+Link Status: WORKING
+
+Link Name: Отказ
+Link Status: WORKING
+
+Link Name: Денежные средства
+Link Status: WORKING
+
+Link Name: Заполненная заявка
+Link Status: WORKING
