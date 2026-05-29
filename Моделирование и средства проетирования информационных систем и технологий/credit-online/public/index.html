@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<title>Кредит-Онлайн</title>
+
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>Кредит-Онлайн</h1>
+    <div>Пользователь: Кредитный специалист</div>
+</header>
+
+<div class="layout">
+
+    <aside>
+
+        <button onclick="showPage('dashboard')">Дашборд</button>
+        <button onclick="showPage('applications')">Заявки</button>
+        <button onclick="showPage('contracts')">Договоры</button>
+        <button onclick="showPage('clients')">Клиенты</button>
+        <button onclick="showPage('reports')">Отчёты</button>
+
+        <div class="stats">
+            <h3>Статистика</h3>
+            <p>Активных заявок: 12</p>
+            <p>Выданных кредитов: 8</p>
+        </div>
+
+    </aside>
+
+    <main id="content"></main>
+
+</div>
+
+<div id="modal" class="modal hidden">
+    <div class="modal-content" id="modal-content"></div>
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
