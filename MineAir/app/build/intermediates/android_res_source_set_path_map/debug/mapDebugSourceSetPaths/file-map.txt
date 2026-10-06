@@ -1,0 +1,9 @@
+com.mineair.monitoring.app-pngs-0 C:\Work\MineAir\app\build\generated\res\pngs\debug
+com.mineair.monitoring.app-resValues-1 C:\Work\MineAir\app\build\generated\res\resValues\debug
+com.mineair.monitoring.app-updated_navigation_xml-2 C:\Work\MineAir\app\build\generated\updated_navigation_xml\debug
+com.mineair.monitoring.app-packageDebugResources-3 C:\Work\MineAir\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mineair.monitoring.app-packageDebugResources-4 C:\Work\MineAir\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mineair.monitoring.app-debug-5 C:\Work\MineAir\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mineair.monitoring.app-debug-6 C:\Work\MineAir\app\src\debug\res
+com.mineair.monitoring.app-main-7 C:\Work\MineAir\app\src\main\res
+gradleHome-0 C:\Users\dix1k\.gradle

@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Условная "кирка" — простая геометрическая метка приложения -->
+    <path
+        android:fillColor="#3373D9"
+        android:pathData="M30,74 L50,54 L58,62 L38,82 Z" />
+    <path
+        android:fillColor="#4DCC4D"
+        android:pathData="M46,30 C60,26 78,32 82,46 C70,42 58,44 50,54 L46,50 C42,44 40,36 46,30 Z" />
+</vector>

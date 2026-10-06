@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#0F0F1A</color>
+    <string name="app_name">MineAir</string>
+    <string name="mine_scene_title">Схема шахты</string>
+</resources>
